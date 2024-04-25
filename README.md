@@ -18,4 +18,4 @@ nothing to commit, working tree clean
 
 git clone https://github.com/leomanchic/git_lab.git
 
-git remote add <repo_name> link
+git remote add <origin> link
