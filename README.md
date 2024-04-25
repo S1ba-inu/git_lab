@@ -16,4 +16,6 @@ Date:   Tue Apr 16 11:59:12 2024 +0300
 On branch hotfix/typo-fix
 nothing to commit, working tree clean
 
+git clone https://github.com/leomanchic/git_lab.git
+
 git remote add <repo_name> link
